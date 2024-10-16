@@ -1,8 +1,9 @@
+import CenteredText from "./components/CenteredText.js";
 
 function App() {
   return (
     <div className="App">
-      Hello template
+      <CenteredText />
     </div>
   );
 }
